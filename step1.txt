@@ -1,2 +1,4 @@
 I have created file now.
 I have added line to check file need to add again or not or i need to commit directly2.
+
+mmit All Tracked Files (Skip git add):
